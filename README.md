@@ -36,9 +36,13 @@
   
   <div>
     <p>Apis:</p>
-    https://nextjs-design-system-tela-de-login.vercel.app/</br>
-    https://next-js-crud-exemplo.vercel.app/users/add
+      <a href="https://nextjs-design-system-tela-de-login.vercel.app/" target="_blank">Nextjs-design-system-tela-de-login</a> 
+      </br>
+      <a href="https://next-js-crud-exemplo.vercel.app/" target="_blank">Next-js-crud-exemplo</a> 
+      </br>
     <p>Sites:</p>
-    https://smartlaw.vercel.app/</br>
-    https://mangata.vercel.app/
+      <a href="https://smartlaw.vercel.app/" target="_blank">SmartLaw</a> 
+      </br>
+      <a href="https://mangata.vercel.app/" target="_blank">Mangata Restaurante</a> 
+      </br>
   </div>
